@@ -27,7 +27,7 @@ SpaCy provided consistent and accurate results across all languages.
 
 ## Sentence Alignment
 
-I aligned annotated German sentences to raw English sentences using BertAlign[https://github.com/bfsujason/bertalign ], which uses sentence transformers and the Google Translate API. The alignment process involved dynamic programming for accurate sentence matching.
+I aligned annotated German sentences to raw English sentences using [BertAlign](https://github.com/bfsujason/bertalign), which uses sentence transformers and the Google Translate API. The alignment process involved dynamic programming for accurate sentence matching.
 
 The process involved:
 
