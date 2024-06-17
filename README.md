@@ -38,6 +38,10 @@ Evaluation
 
 Lemmas: Over 92% accuracy.
 POS Tags: Over 93% accuracy.
+
+## Surprisal
+
+The surprisal was calculated with BERT. The offset might be slightly off.
 Sentence Alignment: Perfect accuracy.
 Conclusion
 
